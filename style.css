@@ -53,6 +53,12 @@ nav {
 
 }
 
+.nav-links ul li a:hover{
+    color: rgb(36, 41, 41);
+    font-size: 30px;
+    transition: 0.5s;
+}
+
 .body-container{
     position: relative;
     text-align: center;
@@ -80,3 +86,17 @@ nav {
     opacity: 1;
 
 }
+
+/* .footer-container  {
+    position: absolute;
+    top: 112.5%;
+    left: 40%;
+    background-color: aliceblue;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 5%;
+}
+
+.fb {
+    left: 10%;
+} */
