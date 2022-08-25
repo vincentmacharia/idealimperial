@@ -60,15 +60,15 @@ text-decoration:none ;
 
 .questions{
     position: absolute;
-    top: 10%;
+    top: 20%;
     left: 5%;
     right: 5%;
     font-size: 50px;
-    background-color: rgb(194, 163, 245);
+    background-color: rgb(105, 104, 107);
     border-radius: 5%;
     opacity: 0.8;
     font-family:'Playfair Display', serif;
-
+    color: aliceblue;
     
 }
 
