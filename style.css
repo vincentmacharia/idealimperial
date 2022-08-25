@@ -37,9 +37,13 @@ nav {
 
 }
 
+.nav-links ul {
+    display: flex;
+    justify-content: space-around;
+}
+
 .nav-links ul li {
-display: flex;
-text-decoration:none ;
+    list-style: none;
 }
 
 .nav-links a{
