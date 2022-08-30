@@ -8,14 +8,18 @@ nav {
     display: flex;
     justify-content: space-around;
     align-items:center;
-    background-color: rgb(241, 241, 241);
+    background-color: #581b98;
+    /* position: fixed; */
+    /* top:0;
+    width: 100%; */
+
 }
 
 .logo{
     /* display: flex; */
     font-size: 50px;
     text-transform: uppercase;
-    color: rgb(102, 103, 104);
+    color: #e8e2ee;
     letter-spacing: 10px;
     /* padding-left: 100px; */
     cursor: pointer;
@@ -24,10 +28,10 @@ nav {
 
 }
 
-.logo :hover {
+/* .logo :hover {
     font-size: 55px;
     transition: 0.5s;
-}
+} */
 
 .nav-links{
     display:inline-flexbox;
@@ -48,15 +52,15 @@ nav {
 
 .nav-links a{
     display: flex;
-    color: rgb(102, 103, 104);
+    color: #e8e2ee;
     text-decoration: none;
 
 }
 
 .nav-links ul li a:hover{
-    color: rgb(36, 41, 41);
-    font-size: 30px;
-    transition: 0.5s;
+    transition: 00.5s;
+    color: #9c1de7;
+    
 }
 
 /* failed background gradient-- to be checked */
@@ -79,7 +83,7 @@ nav {
     left: 5%;
     right: 5%;
     font-size: 50px;
-    background-color: rgb(105, 104, 107);
+    background-color: #7618ad;
     border-radius: 5%;
     opacity: 0.8;
     font-family:'Playfair Display', serif;
@@ -93,6 +97,7 @@ nav {
 }
 
 /* .footer-container  {
+    display: block;
     position: absolute;
     top: 112.5%;
     left: 40%;
@@ -104,4 +109,4 @@ nav {
 
 .fb {
     left: 10%;
-} */
+}  */
