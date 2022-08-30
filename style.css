@@ -24,10 +24,10 @@ nav {
 
 }
 
-/* .logo :hover {
+.logo :hover {
     font-size: 55px;
-    transition: 1s;
-} */
+    transition: 0.5s;
+}
 
 .nav-links{
     display:inline-flexbox;
@@ -59,9 +59,14 @@ nav {
     transition: 0.5s;
 }
 
+/* failed background gradient-- to be checked */
+/* body {
+    background-image: linear-gradient(180deg, red, yellow);
+} */
 .body-container{
     position: relative;
     text-align: center;
+    
 }
 
 .body-container img {
