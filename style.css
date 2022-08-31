@@ -50,7 +50,7 @@ nav {
    border-radius: 10px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 500px) {
 .toggle-button{
     display: flex;
     
