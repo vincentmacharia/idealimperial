@@ -2,6 +2,10 @@
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
+    
+}
+body {
+    background-color: #2b1444;
 }
 
 nav {
@@ -68,20 +72,24 @@ nav {
     background-image: linear-gradient(180deg, red, yellow);
 } */
 .body-container{
-    position: relative;
+    /* position: relative; */
     text-align: center;
+    background-color: #505050;
     
 }
 
-.body-container img {
+/* .body-container img {
     opacity: 0.5;
-}
+    background-attachment:fixed;
+    position:relative;
+} */
 
 .questions{
     position: absolute;
     top: 20%;
     left: 5%;
     right: 5%;
+    /* margin: 25px; */
     font-size: 50px;
     background-color: #7618ad;
     border-radius: 5%;
