@@ -5,6 +5,10 @@
     /* background-color: #8d21cc; */
 }
 
+body {
+    background-color: #5a4075;
+}
+
 nav {
     display: flex;
     justify-content: space-around;
@@ -66,6 +70,10 @@ nav {
     text-align: center;
 }
 
-h2{
-    color: #4f0f99;
+h2 {
+    color: #e8e2ee;
+}
+
+.body__container p {
+    color: #e8e2ee;
 }
