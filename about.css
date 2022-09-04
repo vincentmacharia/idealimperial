@@ -2,7 +2,6 @@
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
-    /* background-color: #8d21cc; */
 }
 
 body {
@@ -17,12 +16,10 @@ nav {
 }
 
 .logo{
-    /* display: flex; */
     font-size: 50px;
     text-transform: uppercase;
     color: #e8e2ee;
     letter-spacing: 10px;
-    /* padding-left: 100px; */
     cursor: pointer;
     font-family: 'Libre Baskerville', serif;
     justify-content: space-around;
@@ -106,8 +103,6 @@ nav {
 
 .body__container {
     margin: 2%;
-    /* margin-top: 5%;
-    margin-bottom: 5%; */
     background-color: #691b96;
     border-radius: 10px;
     position: relative;
