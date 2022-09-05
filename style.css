@@ -5,7 +5,7 @@
         
     }
     body {
-        background-color: #bdbcbe;
+        background-color: #939196;
     }
 
     nav {
@@ -117,33 +117,78 @@
         
     }
 
-
-    .questions{
-        position: absolute;
-        top: 20%;
-        left: 5%;
-        right: 5%;
-        font-size: 50px;
-        background-color: #7618ad;
-        border-radius: 5%;
-        opacity: 0.8;
-        font-family:'Playfair Display', serif;
-        color: aliceblue;
-        ba
+        .ideal-imperial{
+            position:absolute;
+            left: 5%;
+            font-size: 2em;
+            text-transform: uppercase;
+            font-family:'Libre Baskerville', serif;
+            color:#e5deec ;
+            text-align:justify;
+        }
         
-    }
+        .mantra{
+            position: absolute;
+            top:23%;
+            left:5%;
+            font-size: 2em;
+            color: #ebe6f0;
+            font-family: 'Lora', serif;
+        }
 
-    .questions p {
-        opacity: 1;
+        .count{
+            position: absolute;
+            top:40% ;
+            left: 100px;
+            font-size: 20px;
+            border-style: dashed;
+            border-color: #e5deec;
+            color: #e5deec;
+            background-color: #646166;
+            padding: 10px;
+        }
 
-    }
-    .contact-us {
-        
-        margin:30% 40%  ;
-        font-size: 40px;
-        
-    }
 
+        .worked-on{
+            position: absolute;
+            top: 42%;
+            left: 200px;
+            font-size: 1.8em;
+            color:#e5deec ;
+            font-family: 'Lora', serif;
+            text-transform: capitalize;
+        }
+
+
+        .action-button{
+            position: absolute;
+            top: 60%;
+            left:8.5rem;
+            border-style:initial;
+            background-color: #581b98;
+            padding: 20px;
+            border-radius: 10%;
+        }
+
+        .action-button a {
+            color: #e5deec;
+            text-decoration: none;
+            font-family:'Libre Baskerville', serif;
+            text-transform: capitalize;
+            font-size:15px ;
+
+        }
+
+
+        .action-button a:hover {
+            color:#9c1de7;
+            transition: ease-in .5s;
+        }
+
+
+        /* .action-button a:visited {
+            text-decoration: underline;
+        } */
         .contact-us a {
             position: fixed;
             text-decoration: none;
