@@ -5,7 +5,7 @@
         
     }
     body {
-        background-color: #939196;
+        background-color: #565458;
     }
 
     nav {
@@ -129,7 +129,7 @@
         
         .mantra{
             position: absolute;
-            top:23%;
+            top:21%;
             left:5%;
             font-size: 2em;
             color: #ebe6f0;
@@ -139,7 +139,7 @@
         .count{
             position: absolute;
             top:40% ;
-            left: 100px;
+            left: 80px;
             font-size: 20px;
             border-style: dashed;
             border-color: #e5deec;
@@ -152,7 +152,7 @@
         .worked-on{
             position: absolute;
             top: 42%;
-            left: 200px;
+            left: 150px;
             font-size: 1.8em;
             color:#e5deec ;
             font-family: 'Lora', serif;
@@ -167,7 +167,7 @@
             border-style:initial;
             background-color: #581b98;
             padding: 20px;
-            border-radius: 10%;
+            border-radius: 20%;
         }
 
         .action-button a {
@@ -175,7 +175,7 @@
             text-decoration: none;
             font-family:'Libre Baskerville', serif;
             text-transform: capitalize;
-            font-size:15px ;
+            font-size:10px ;
 
         }
 
