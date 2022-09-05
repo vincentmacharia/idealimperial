@@ -119,18 +119,20 @@
 
         .ideal-imperial{
             position:absolute;
-            left: 5%;
-            font-size: 2em;
+            /* left: 5%; */
+            font-size: 1.5em;
             text-transform: uppercase;
             font-family:'Libre Baskerville', serif;
             color:#e5deec ;
-            text-align:justify;
+            text-align:center;
+            
         }
         
         .mantra{
-            position: absolute;
-            top:21%;
-            left:5%;
+            position: relative;
+            top:55px;
+            right: 35px;
+            /* left:5%; */
             font-size: 2em;
             color: #ebe6f0;
             font-family: 'Lora', serif;
